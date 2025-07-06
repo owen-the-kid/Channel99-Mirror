@@ -1,0 +1,58 @@
+#EXTM3U
+
+# Anime Streams
+#EXTINF:-1 tvg-name="Channel 99" group-title="Anime Streams",Channel 99 - All Anime (14,841 episodes/movies)
+https://www.pracdev.org/channel99/pls_files/channel_99.pls
+
+#EXTINF:-1 tvg-name="Channel 99½" group-title="Anime Streams",Channel 99½ - Same playlist as 99, offset by 7 months
+https://www.pracdev.org/channel99/pls_files/channel_99_half.pls
+
+#EXTINF:-1 tvg-name="Channel 99 Classic" group-title="Anime Streams",Channel 99 Classic - All Anime from last century
+https://www.pracdev.org/channel99/pls_files/channel_99_classic.pls
+
+#EXTINF:-1 tvg-name="Channel 99 HD" group-title="Anime Streams",Channel 99 HD - All Anime in 720p HD
+https://www.pracdev.org/channel99/pls_files/channel_99_hd.pls
+
+#EXTINF:-1 tvg-name="Channel 2501" group-title="Anime Streams",Channel 2501 - Ghost in the Shell 24/7 (720p HD)
+https://www.pracdev.org/channel99/pls_files/channel_2501.pls
+
+#EXTINF:-1 tvg-name="Channel 4869" group-title="Anime Streams",Channel 4869 - Detective Conan 24/7 (720p HD)
+https://www.pracdev.org/channel99/pls_files/channel_4869.pls
+
+# Nonfiction Streams
+#EXTINF:-1 tvg-name="Channel 101" group-title="Nonfiction Streams",Channel 101 - Documentaries and film reels from last century
+https://www.pracdev.org/channel99/pls_files/channel_101.pls
+
+#EXTINF:-1 tvg-name="Channel 101½" group-title="Nonfiction Streams",Channel 101½ - Remix of Channel 101 (randomized)
+https://www.pracdev.org/channel99/pls_files/channel_101_half.pls
+
+#EXTINF:-1 tvg-name="Channel 101 Dropout" group-title="Nonfiction Streams",Channel 101 Dropout - Documentaries rejected from Channel 101
+https://www.pracdev.org/channel99/pls_files/channel_101_dropout.pls
+
+# Fiction Streams
+#EXTINF:-1 tvg-name="Channel 3000" group-title="Fiction Streams",Channel 3000 - Mystery Science Theater 3000
+https://www.pracdev.org/channel99/pls_files/channel_3000.pls
+
+#EXTINF:-1 tvg-name="Channel 3000½" group-title="Fiction Streams",Channel 3000½ - Remix of Channel 3000 (randomized)
+https://www.pracdev.org/channel99/pls_files/channel_3000_half.pls
+
+#EXTINF:-1 tvg-name="Channel 42" group-title="Fiction Streams",Channel 42 - Miscellaneous Fiction (non-anime)
+https://www.pracdev.org/channel99/pls_files/channel_42.pls
+
+# Miscellaneous Streams
+#EXTINF:-1 tvg-name="Channel 19.5" group-title="Miscellaneous Streams",Channel 19.5 - Moonbase 19.5 "Experience Yesterday Today"
+https://www.pracdev.org/channel99/pls_files/channel_19_5.pls
+
+#EXTINF:-1 tvg-name="Cosmos TV Classic" group-title="Miscellaneous Streams",Cosmos TV Classic - Space docs and UFO content (ca. 2011)
+https://www.pracdev.org/channel99/pls_files/cosmos_tv_classic.pls
+
+#EXTINF:-1 tvg-name="Rant TV Classic" group-title="Miscellaneous Streams",Rant TV Classic - Clone of Rant TV (ca. 2010) + What The Hell Show
+https://www.pracdev.org/channel99/pls_files/rant_tv_classic.pls
+
+#EXTINF:-1 tvg-name="Icenrye's Geocaching" group-title="Miscellaneous Streams",Icenrye's Geocaching Videostream - Cult classic geocaching content
+https://www.pracdev.org/channel99/pls_files/icenrye_geocaching.pls
+
+# Note: All streams are NSV format, most at 240p (320x240) VP3.1 + MP3 audio ~256kbps
+# HD streams are 720p using VP3.1 codec (pushing the limits!)
+# Compatible with VLC, MPV, Winamp and other NSV-capable players
+# For Winamp users with HD streams, check the NSV Decoder Fix page
