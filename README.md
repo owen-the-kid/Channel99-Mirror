@@ -50,6 +50,10 @@ For IPTV clients, use this direct link to the M3U playlist:
 ```
 https://raw.githubusercontent.com/owen-the-kid/Channel99-Mirror/refs/heads/main/channel99.m3u
 ```
+Or use this Shortend Link:
+```
+http://bit.ly/46eVWoz
+```
 
 ### Download
 - **M3U Playlist:** [channel99.m3u](channel99.m3u)
