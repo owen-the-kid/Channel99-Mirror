@@ -48,11 +48,11 @@ Channel 99 is a collection of NSV (Nullsoft Streaming Video) streams that preser
 ### Direct IPTV Link
 For IPTV clients, use this direct link to the M3U playlist:
 ```
-https://raw.githubusercontent.com/owen-the-kid/Channel99-Mirror/main/channel99_streams.m3u
+https://raw.githubusercontent.com/owen-the-kid/Channel99-Mirror/refs/heads/main/channel99.m3u
 ```
 
 ### Download
-- **M3U Playlist:** [channel99_streams.m3u](channel99_streams.m3u)
+- **M3U Playlist:** [channel99.m3u](channel99.m3u)
 - **Individual PLS files:** Available from the original source
 
 ### Compatible Players
