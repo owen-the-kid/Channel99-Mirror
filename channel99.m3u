@@ -36,9 +36,6 @@ http://155.138.139.156:3002/;stream.nsv
 #EXTINF:-1 group-title="Fiction Streams",Channel 42 - Miscellaneous Fiction (non-anime)
 http://155.138.139.156:8042/;stream.nsv
 
-#EXTINF:-1 group-title="Miscellaneous Streams",Channel 19.5 - Experience Yesterday Today
-http://155.138.139.156:9150/;stream.nsv
-
 #EXTINF:-1 group-title="Miscellaneous Streams",Cosmos TV Classic - Space docs and UFO (ca. 2011)
 http://155.138.139.156:8010/;stream.nsv
 
