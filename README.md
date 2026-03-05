@@ -38,7 +38,6 @@ Channel 99 is a collection of NSV (Nullsoft Streaming Video) streams that preser
 - **Channel 42** - Miscellaneous Fiction (non-anime)
 
 ### 🌟 Miscellaneous Streams
-- **Channel 19.5** - Moonbase 19.5 "Experience Yesterday Today"
 - **Cosmos TV Classic** - Space docs and UFO content (ca. 2011)
 - **Rant TV Classic** - Rant TV clone (ca. 2010) + "What The Hell Show"
 - **Icenrye's Geocaching** - Cult classic geocaching videos
